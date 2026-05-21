@@ -298,12 +298,13 @@ i{
     object-fit: cover;
     width: 100%;
     aspect-ratio: 3/4;
-  }
+    border-radius: 12px;
   
   .gallery-landscape {
     aspect-ratio: 16/9;
     width: 100%;
     object-fit: cover;
+      border-radius: 12px;
   }
   
   @media (min-width: 768px) {
