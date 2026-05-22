@@ -10,11 +10,11 @@ function updateStatus() {
   if (isOpen) {
     dot.classList.add("open");
     dot.classList.remove("closed");
-    text.textContent = "OPEN, CLOSES 9PM";
+    text.textContent = "OPEN • CLOSES 9PM";
   } else {
     dot.classList.add("closed");
     dot.classList.remove("open");
-    text.textContent = "CLOSED, OPENS 11AM";
+    text.textContent = "CLOSED • OPENS 11AM";
   }
 }
 
