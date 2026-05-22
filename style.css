@@ -99,6 +99,7 @@ body.modal-open #book-table{
 }
 #subtitle p{
     font-family: 'Montserrat', sans-serif;
+    color: #2b2b2b;
 }
 .container-icon{
     display: flex;
@@ -269,8 +270,8 @@ i{
     background-color: #d9cfc5;
  }
  footer i{
-    color: black;
-    width: 18px;
+    color: #2b2b2b;
+    width: 20px;
  }
  #staticBackdrop{
    
