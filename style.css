@@ -327,12 +327,12 @@ i{
     font-family:'Montserrat',sans-serif;
 }
 .new-added-tabs button.active{
-    color:#bc9e82;
+    color: #B57281;
     background: transparent;
     font-family:'Montserrat',sans-serif
 }
 .new-added-tabs .nav-link.active{
-    color:#bc9e82;
+    color: #B57281;
     background: transparent;
     font-family:'Montserrat',sans-serif
    
@@ -363,7 +363,7 @@ i{
     border-bottom: none !important;
 }
 .event p{
-    border-left: 3px solid #bc9e82;
+    border-left: 3px solid #B57281;
     padding-left: 6px;
     position: relative;
     color: #2b2b2b !important;
@@ -374,7 +374,7 @@ i{
     font-family:'Montserrat',sans-serif;
 }
 .event a{
-    color: #bc9e82;
+    color: #B57281;
 }
 .tab-content h4,p{
     font-family: 'Montserrat',sans-serif;
