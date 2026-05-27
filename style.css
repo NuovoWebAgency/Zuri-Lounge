@@ -334,7 +334,7 @@ i{
 .new-added-tabs .nav-link.active{
     color: #B57281;
     background: transparent;
-    font-family:'Montserrat',sans-serif
+    font-family:'Montserrat',sans-serif;
    
 }
 .new-added-tabs .nav-tabs{
