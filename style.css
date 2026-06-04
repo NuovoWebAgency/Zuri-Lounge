@@ -160,8 +160,8 @@ button{
 #subtitle p{
     background-color: #faf9f6;
     border-radius: 8px;
-    border-left: 5px solid #B57281;
-    border-right: 5px solid #B57281;
+    border-left: 4px solid #B57281;
+    border-right: 4px solid #B57281;
     padding-left: 6px;
 }
 #pizza{
@@ -369,8 +369,8 @@ i{
     margin-top: 10px;
     background-color: #faf9f6;
     border-radius: 8px;
-    border-left: 5px solid #B57281;
-    border-right: 5px solid #B57281;
+    border-left: 4px solid #B57281;
+    border-right: 4px solid #B57281;
     box-shadow: 24px;
     padding-bottom: 8px;
     padding-top: 0;
@@ -413,8 +413,8 @@ i{
 #indulgence{
     background-color: #faf9f6;
     border-radius: 8px;
-    border-left: 5px solid #B57281; 
-    border-right: 5px solid #B57281;
+    border-left: 4px solid #B57281; 
+    border-right: 4px solid #B57281;
     margin-top: 10px;
     margin-bottom: 14px;
    
